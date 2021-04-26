@@ -1,0 +1,53 @@
+Hangar
+1
+no
+uno
+no
+duo
+treso
+no
+no
+no
+East Engine Room
+Family Quarters 3
+dead
+Captain Bedroom
+IT Quarters
+Waiting Room
+Game Room
+Game Room
+dead
+Gym
+Human Quarters 1
+dead
+Medical Bay
+Computer Tool Room
+Cafe
+Science Lab
+dead
+Ship Log Room
+Plant Lab
+Closet
+dead
+East Storage
+dead
+opateytfajghda
+yes
+HGAFKH,VBASFJL,JRHFBLJ,HSAFKVVASFB,.LJHC
+no
+A larger room with a bed, nightstand and closet in one area and a couch, coffee table and comfy chairs in a sitting area. The remnants of a half-smoked cigar lie cold in an ashtray on the coffee table.
+yes
+A small room with a couch, tv, remote, and tablestands. Soft music plays from a nearby speaker.
+no
+A small room with video screens and couches. Headsets hang on a wall. There is a random power outlet on the wall with nothing plugged into it, yet you can tell the TV has power because of the light in the bottom of the corner. The ancient cushions on the couch seem to have mountains of lost items piled beneath.
+no
+A room with rows of steel tables, strong overhead lights and scientific equipment. The entrance to this room has an air lock and small vestibule for sanitization. A microscope on one of the tables has a very strange, thick, lime-green liquid in a petri dish.
+no
+A large, open, spacious room with various workout machines scattered about. A television monitor hangs on the wall, but is turned off. An open bottle of some sort of energy drink or thick, lime-green liquid sits in the treadmill holder.
+yes
+Private sleeping/living quarters for one member of the crew, only a bed, nightstand, cabinet and closet are inside. A singular shoe lies under the bed.
+yes
+A small room that holds various computer repair tools, none of which you recognize except for a crowbar.
+no
+A closet off to the side of the hallway, full of cleaning equipment. The mop is extremely dry. The door to the east is the engine room, but it needs a maintinence code.
+no
