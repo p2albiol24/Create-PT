@@ -1,0 +1,59 @@
+Get toothbrush from family quarters 3
+Use it as key in west engine room
+Unlocks engine room 
+Use to get in engine room
+Get goggles
+Use them in maze
+Get card
+Get into captains bedroom
+Get cigar
+Put into cowboy toys hand in IT quarters
+Cowboy falls over, says “Sometimes, a remote can fit in the place of a book”
+Put remote in book place in library
+Nothing happens
+Ships AI comes to life, asks if you are mentally ok
+Opens server room door
+Player must move cushions off couch in game room
+Get lost Officers ID
+Find code in officers bedroom (4dY7bU)
+Use code in Server Room
+Open gym door
+Get bottle from gym
+Pour bottle on lock
+Break open gun plat room
+Use code found in Gun Plat to open Command room (12232917)
+Use command room to unlock weapons
+Get the bad ship id number (d3682)
+Use photon torpedoes to explode bad ship
+If player explodes wrong ship, game restarts
+Receive mayday signal from exploded ship
+Doors to human quarters open
+Get shoe from Human Quarters 1
+Get crowbar from tools room
+Light on fire from cafe lighter
+Use crowbar to hold it at distance
+Use to burn the green liquid in petri dish in science lab
+Go to simulation room
+Simulation room displays peace and prosperity
+Simulation room displays key
+Use key to open filing cabinet in west brig security room
+Get code to access computer in Ship Log Room (Urm478e1)
+Read computer andd input code
+Learn of the alien who boarded with the green goo
+Learn how it was alive
+Learn how it infected the ship
+Learn that you need to get off
+Solve plant lab puzzle by watering plant with carbon disulfate
+(Use hidden chemical code from garden to water vine plant in corner of plant lab)
+Spills water everywhere
+Grab mop from closet
+Must use mop to dry floor
+Get janitor code (t3H1dq)
+Get into Intel room
+Use code from board game room in Intel console input (Cd1H3a)
+Use code from Intel room to get into bridge maintenance room
+Get ship AI from bridge maintenance room
+Get the code to a private space shuttle from breaking open the boxes in east storage unit
+Get in space shuttle
+Put AI chip in space shuttle
+Fly away and win
