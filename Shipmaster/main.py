@@ -316,7 +316,7 @@ class Room():
         if room == "Shuttle":
             return Rooms[96]
 
-Rooms = [hangar, ship_log_room, midhw, ehw, whw, closet1, estorage, wstorage, br1, mstairs, rroom, meetroom, bridge, bar, cafe, maint, engine, bed1, be2, bed3, bed4, bed5, maze, observe, upserve, closet2, ustairs, habserve, gym, bathroom, waiting, library, medbay,  medclo, engine2, compute, tool  server, it, midhw1, ehw1, whw1, brmaint, offbr, capbr, elev1, eleev2, elev3, robserve, mobserve, pool, bowl, snow, garden, tennis, mess, kitchen, game, board, sim, music, science, plant, observatory, middhw2, ehw2, whw2, midhw3, eh3, whw3, fq1, fq2, fq3, fq4, cor, wesc1, wesc2, esc1, esc2, esc, gpw1, gpw2, gpe1, gpe2, battery1, battery2, missile1, missile2, Intelligence,  srw, sre, wbrig, ebrig, movie, dead, shuttle]
+Rooms = [hangar, ship_log_room, midhw, ehw, whw, closet1, estorage, wstorage, br1, mstairs, rroom, meetroom, bridge, bar, cafe, maint, engine, bed1, bed2, bed3, bed4, bed5, maze, observe, ubserve, closet2, ustairs, habserve, gym, bathroom, waiting, library, medbay,  medclo, engine2, compute, tool, server, it, midhw1, ehw1, whw1, brmaint, offbr, capbr, elev1, elev2, elev3, robserve, mobserve, pool, bowl, snow, garden, tennis, mess, kitchen, game, board, sim, music, science, plant, observatory, midhw2, ehw2, whw2, midhw3, ehw3, whw3, fq1, fq2, fq3, fq4, cor, wesc1, wesc2, esc1, esc2, esc, gpw1, gpw2, gpe1, gpe2, battery1, battery2, missile1, missile2, Intelligence, srw, sre, wbrig, ebrig, movie, dead, shuttle]
 
 
 
