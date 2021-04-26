@@ -2082,10 +2082,9 @@ while True:
     
     if intelunlock == 'yes':
         Intelligence.unlock()
-        Intelligence.unlock
         Intelligence.locked = 'no'
         Intelligence.locked = Intelligence.unlock()
-        Intelligence.locked = Intelligence.unlock
+        
     if command == 'open save':
         open_save_file()
     
